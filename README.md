@@ -8,5 +8,7 @@ Path to data on virgo:
 Files with timestamps after 02:17 are from the second group
 
 Path to data with second groups files removed:  
-/net/virgo01/data/users/mpucovsky/OAProject/2025-05-05
+/net/virgo01/data/users/mpucovsky/OAProject/2025-05-05  
 (if this path is incorrect or doesn't work, please let me know)
+
+for reading/writing files, please see directory structure for the correct place
