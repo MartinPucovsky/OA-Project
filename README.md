@@ -12,3 +12,17 @@ Path to data with second groups files removed:
 (if this path is incorrect or doesn't work, please let me know)
 
 for reading/writing files, please see directory structure for the correct place
+
+
+Aperture settings:  
+for WASP-135  
+aperture/annulus centre: (651,602)  
+aperture radius: 5  
+annulus inner radius: 7  
+annulus outer radius: 11  
+
+for standard star  
+aperture/annulus centre: (792,595)  
+aperture radius: 3  
+annulus inner radius: 5  
+annulus outer radius: 11  
