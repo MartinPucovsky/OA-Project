@@ -26,10 +26,10 @@ aperture radius: 7
 annulus inner radius: 9  
 annulus outer radius: 15  
 Checking star 2:  
-aperture/annulus centre: (592,546)  
-aperture radius: 6  
-annulus inner radius: 7  
-annulus outer radius: 9  
+aperture/annulus centre: (682,623)  
+aperture radius: 4  
+annulus inner radius: 6  
+annulus outer radius: 14  
 
 
 for standard star  
