@@ -50,6 +50,11 @@ aperture radius: 4
 annulus inner radius: 5  
 annulus outer radius: 11  
 
+Checking star 6:  
+aperture/annulus centre: (660,587)  
+aperture radius: 5  
+annulus inner radius: 6  
+annulus outer radius: 12  
 
 for standard star  
 aperture/annulus centre: (792,595)  
